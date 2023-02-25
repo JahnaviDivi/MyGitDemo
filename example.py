@@ -1,3 +1,6 @@
 #used to print the numbers
-for i in range(1,10):
+tot_range = input("Enter Range:")
+for i in range(1,tot_range):
     print(i)
+
+
